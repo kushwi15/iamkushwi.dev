@@ -112,7 +112,7 @@ const Projects = () => {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-3xl md:text-5xl font-display font-bold text-white mb-4"
             >
-              Flame Dance Projects
+              Dev Projects
             </motion.h1>
             
             <motion.div

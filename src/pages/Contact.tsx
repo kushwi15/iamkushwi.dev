@@ -113,7 +113,7 @@ const Contact = () => {
       icon: <MapPin className="h-5 w-5" />,
       label: "Location",
       value: "Banglore, India",
-      link: "https://maps.app.goo.gl/2CQiyvZC6MtZtCJRA"
+      link: "https://www.google.com/maps?q=12.9562612,77.7392181"
     },
     {
       icon: <Phone className="h-5 w-5" />,
